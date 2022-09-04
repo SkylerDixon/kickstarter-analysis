@@ -10,11 +10,11 @@ The purpose of this project was to assist an up-and-coming playwright, Louise, d
 
 ### Analysis of Outcomes Based on Launch Date
 Does the release date influence the outcome? We performed an analysis of outcomes based on their launch date to answer this question for Louise. What we found is between the months of April and August you see the highest scores for both successful and failed campaigns. 
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 We sorted the campaign outcomes into three categories; Successful, Failed, and Cancelled. We set these against the set goal amounts ranging from less than $1,000 to $50,000 or more. Our investigation looked for any relation between the two elements. We found that the lower the goal, the higher the success rate.
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+
  
 
 ### Challenges and Difficulties Encountered
