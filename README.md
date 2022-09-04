@@ -14,7 +14,7 @@ Does the release date influence the outcome? We performed an analysis of outcome
 
 ### Analysis of Outcomes Based on Goals
 We sorted the campaign outcomes into three categories; Successful, Failed, and Cancelled. We set these against the set goal amounts ranging from less than $1,000 to $50,000 or more. Our investigation looked for any relation between the two elements. We found that the lower the goal, the higher the success rate.
-
+![Outcomes_vs_Goals](Resources/Outcomes_vs_%20Goals.png)
  
 
 ### Challenges and Difficulties Encountered
